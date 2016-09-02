@@ -1,0 +1,456 @@
+4-1-2010;DMPSS;0;8;Go Live - ESS Only
+5-1-2010;DMPSS;0;0;Go Live - ESS Only
+5-1-2010;AO-QH;0;2;JCI-BUR: Update plan
+5-1-2010;AO-QH;0;2;JCI-BUR: Update plan
+5-1-2010;PARK-FR;37837;4;Quote
+6-1-2010;AO-QH;0;1;JCI-BUR: Preparation of the pre-transition
+6-1-2010;AKZO-UK;37881;0.5;Changes to Webspeed application after the workshop
+6-1-2010;AO-QH;0;1;Check work done for EFAS Interface - Pregis
+6-1-2010;AKZO-UK;37881;2;Changes to Webspeed application after the workshop
+6-1-2010;METM-FIN;37864;3.5;Issue with Transportation booking
+7-1-2010;AVD-BEL;37785;4;Forecasting functionality per customer: discussion in Turnhout
+7-1-2010;AVD-BEL;37785;4;Forecasting functionality per customer: discussion in Turnhout
+8-1-2010;AVD-BEL;37893;3;Forecasting functionality per customer: discussion in Turnhout
+8-1-2010;AKZO-UK;37881;2;Changes to Webspeed application after the workshop
+8-1-2010;AO-QH;0;1;preparation PAN-BEL migratie
+8-1-2010;AO-QH;0;1;QXtend webinar - study
+11-1-2010;AVD-BEL;37893;5;Forecasting functionality per customer: discussion in Turnhout
+11-1-2010;PHPMS-HE;37888;1;Check if patch is installed or can be installed
+11-1-2010;AO-QH;0;0.5;Server upgrade panasonic - discussion with MP
+11-1-2010;AO-QH;0;0.5;Server upgrade PSS - discussion with MP
+11-1-2010;PHPMS-HE;37897;1;shared frame error
+12-1-2010;SWE-BEL;37819;7;downgrade fixed assets from eB
+12-1-2010;SCOTTS;37909;1;shared frame issue
+13-1-2010;AKZO-UK;37881;2;Changes to Webspeed application after the workshop
+13-1-2010;SWE-BEL;37819;7;downgrade fixed assets from eB
+14-1-2010;ANT-EIN;37911;2;Print width for intrastat report
+14-1-2010;SCOTTS;37923;1;Order op HD als bedrag stijgt
+14-1-2010;SCOTTS;37923;2;Order op HD als bedrag stijgt
+14-1-2010;GVS-BRE;37927;1.5;Problem with sosorp05.p in batch
+14-1-2010;SCOTTS;37928;1.5;Problem in sosomt.p
+15-1-2010;DMPSS;37931;2;can not import delins from other customers then PSA after implementing CR37401
+15-1-2010;METM-FIN;37864;2;date in abs_user2 is not always correct format
+15-1-2010;METM-FIN;37939;1;booking export should only select shippers, not pre-shippers
+15-1-2010;GVS-BRE;37933;2;Can not ship RMA order R100039K
+18-1-2010;METM-AT;37944;2.5;Check GL report writer result
+18-1-2010;AKZO-UK;37881;0.5;Follow-up
+18-1-2010;AO-QH;0;1;Example of report 29.15.23 output for Jos Kaal - non billable
+18-1-2010;METM-AT;37944;0.5;Check GL report writer result
+18-1-2010;AVD-BEL;37893;0.5;Forecasting functionality per customer: discussion in Turnhout
+18-1-2010;METM-AT;37944;1;Check GL report writer result
+18-1-2010;METM-FIN;37864;1;Installation in prod
+18-1-2010;METM-FIN;37948;1;Pre-shippers created with qty 0 after UOM comnversion installation to PROD - TIANJIN
+19-1-2010;METM-AT;37944;5.5;Check GL report writer result
+19-1-2010;SCOTTS;37928;1;re-delivery of files
+19-1-2010;PARK-FR;37837;1.5;Modification of order entry
+20-1-2010;PARK-FR;37837;5;Modification of order entry
+20-1-2010;GVS-BRE;37708;3;Price list CIM Load - 37806
+21-1-2010;PARK-FR;37837;2;Modification of order entry
+21-1-2010;PARK-FR;37837;2;Modification of order entry
+21-1-2010;METM-AT;37944;0.5;Check GL report writer result
+21-1-2010;SCOTTS;37923;3.5;Change to sales order HOLD logic
+22-1-2010;SCOTTS;37923;0.5;Change to sales order HOLD logic
+22-1-2010;AKZO-UK;37881;1;Project Lead
+22-1-2010;SCOTTS;37976;2;shared temp-table error
+22-1-2010;AO-QH;0;0.5;Overdracht Ruth
+22-1-2010;SCOTTS;37976;0.5;shared temp-table error
+22-1-2010;GVS-BRE;37953;0.5;question: how to check
+22-1-2010;METM-AT;37944;1.5;opening balance in GL report writer 25.21.17 run report SLDN-EXP
+25-1-2010;GVS-BRE;37980;1;New report based on 5.13.5 - proposal
+25-1-2010;GVS-BRE;37981;0.5;New field on receiver (5.13.2) - proposal
+25-1-2010;FFWE;37893;2;Problem returning goods with 37.4.2
+25-1-2010;METM-AT;37944;2;GL report writer report
+25-1-2010;JEST-NL;37987;1;Issue in tax report 2.13.15.8
+25-1-2010;AKZO-UK;37881;0.5;Part 2 - Proj. M.
+25-1-2010;GVS-BRE;37981;1;development
+26-1-2010;DMPSS;37917;1.5;Server upgrade - project plan preparation
+26-1-2010;GVS-BRE;37980;1;development new PO receipt report
+26-1-2010;AKZO-UK;37881;0.5;PM
+26-1-2010;GVS-BRE;37980;2;development new PO receipt report
+26-1-2010;DMPSS;37931;1;support when testing EDI ECommerce import
+26-1-2010;GVS-BRE;37981;2;New field on receiver (5.13.2) - proposal
+27-1-2010;FFWE;37893;4;Problem with returning goods
+27-1-2010;AKZO-UK;37881;1.5;conf call
+27-1-2010;MONTIS;38000;2.5;BI file issue
+28-1-2010;FFWE;37893;1;Problem with returning goods
+28-1-2010;MONTIS;38000;5;BI file issue
+28-1-2010;METM-FIN;38012;2;check which fields are used in the warehouse interface
+17-2-2010;AVD-BEL;37893;2.5;Testing and delivery
+17-2-2010;JEST-NL;38098;1;EDI aanpassing voor TU
+17-2-2010;METM-MIL;38042;1;Tianjin shippers not exported
+17-2-2010;JEST-NL;38098;3;EDI aanpassing voor TU
+17-2-2010;AO-QH;0;0.5;Aanpassing CV in Aorta
+18-2-2010;PAN-BEL;ITR2584;0.75;Rapport 23.15
+18-2-2010;PAN-BEL;ITR2618;0.5;Toevoegen aantal pallets op 3.5.15 3n 3.5.24
+18-2-2010;PAN-BEL;ITR2619;0.5;Toevoegen prioriteit
+18-2-2010;PAN-BEL;ITR2622;0.5;Default waarde aanpassen en vraag weglaten
+18-2-2010;PAN-BEL;ITR2595;0.5;Default waarde aanpassen
+18-2-2010;PAN-BEL;ITR2612;1.02;Lijst hertellingen automatisch op printer Guy Loysch
+18-2-2010;PAN-BEL;ITR2614;0.69;SO lijn splitsen na de bevestiging
+18-2-2010;PAN-BEL;ITR2621;5.04;Opladen FCST vanuit excel
+19-2-2010;JEST-NL;38098;1;EDI aanpassing voor TU - Quote
+19-2-2010;AVD-BEL;37893;1;Change ppptmtc.p
+19-2-2010;PAN-BEL;38104;2;Laden forecast vanaf een bestand - quote
+19-2-2010;ACV-SEN;37890;3;.NET Migration
+22-2-2010;ACV-SEN;37890;8;.NET Migration
+23-2-2010;PAN-BEL;ITR2617;8;Uniforme PECE-PECBE artikeldata
+24-2-2010;AVD-BEL;37893;1;Prepare header files for AVD-BEL
+24-2-2010;AKZO-UK;38009;0.5;PM
+24-2-2010;SCOTTS;38113;2;performance issue
+24-2-2010;AKZO-UK;38009;1;PM
+24-2-2010;SCOTTS;38113;3;Performance
+24-2-2010;MONTIS;38129;0.5;Boekingsprobleem
+24-2-2010;ACV-SEN;37890;0;.NET Migration
+25-2-2010;ACV-SEN;37890;2;.NET Migration
+25-2-2010;MONTIS;38129;1;Boekingsprobleem
+25-2-2010;ACV-SEN;37890;4;.NET Migration
+25-2-2010;SCOTTS;38113;1;Performance
+25-2-2010;AKZO-UK;38136;1;Last part of webspeed - quote
+26-2-2010;ACV-SEN;37890;3.5;.NET Migration
+26-2-2010;MONTIS;38129;0.5;Boekingsprobleem
+26-2-2010;AVD-BEL;38141;1;CIM load forecast maintenance
+26-2-2010;ACV-SEN;37890;2;.NET Migration
+1-3-2010;ACV-SEN;37890;2;.NET Upgrade
+1-3-2010;DMPSS;37917;1;PM
+1-3-2010;AVD-BEL;37893;1;Forecast per customer
+1-3-2010;DMPSS;37931;3.5;Help Petra
+1-3-2010;AKZO-UK;38136;0.5;AKZO - PM
+1-3-2010;GVS-BRE;38150;0.5;Reporting - book on 37806
+2-3-2010;GVS-BRE;38150;3.5;Reporting - book on 37806
+2-3-2010;ACV-SEN;37890;4.5;.NET Migration
+3-3-2010;ACV-SEN;37890;6;.NET Migration
+3-3-2010;GVS-BRE;37871;1;Install srs38150 and 38151 in test and production
+3-3-2010;ACV-SEN;37890;2;.NET Migration
+4-3-2010;JEST-NL;38098;7;EDI change for Technische Unie
+4-3-2010;GVS-BRE;38177;1;Installed base item move not possible
+5-3-2010;GVS-BRE;38177;1;Installed base item move not possible
+5-3-2010;GVS-BRE;38176;1;report output
+5-3-2010;PHPMS-HE;38095;6;development
+8-3-2010;GVS-BRE;38176;1;aanpassing batch job
+8-3-2010;PHPMS-HE;38095;4.5;development
+8-3-2010;JEST-NL;38098;2.5;development
+9-3-2010;JEST-NL;38098;1.5;development
+9-3-2010;GVS-BRE;38187;1;PR
+9-3-2010;GVS-BRE;38185;0.5;PR
+9-3-2010;GVS-BRE;38191;0.5;PR
+9-3-2010;GVS-BRE;38183;2;Performance issue
+9-3-2010;GVS-BRE;38191;1.5;Change to cost price report
+9-3-2010;PHPMS-HE;38199;0.5;Install patch Q386
+9-3-2010;SCOTTS;38198;0.5;Install patch Q386
+10-3-2010;JEST-NL;38098;6;EDI
+10-3-2010;AKZO-UK;38136;2;Testing
+11-3-2010;PAN-BEL;ITR2617;6;Omzetting codenummers
+11-3-2010;PAN-BEL;ITR2598;0;Codenummer leverancier
+11-3-2010;PAN-BEL;ITR2598;2;Codenummer leverancier
+11-3-2010;PAN-BEL;ITRXXXX;0;Unix script aanpassing
+12-3-2010;JEST-NL;38098;1;Setup mailen
+12-3-2010;SCOTTS;38198;1;Install patch QAD Q386
+12-3-2010;TAL-UK;38219;4.5;Problem with acocunting in account conversion tool
+12-3-2010;FEI-EHV;xxxxx;0.5;docfiles
+12-3-2010;AVD-BEL;38194;0.5;aanpassing selectiecriteria
+15-3-2010;ACV-SEN;37890;1.5;overdracht ACV aan Johan
+15-3-2010;AVD-BEL;38194;1.5;aanpassing selectiecriteria
+15-3-2010;AVD-BEL;38230;0.5;Automatisering Forecast per customer
+15-3-2010;ACV-SEN;37890;4.5;Test .NET customizations for ACV
+16-3-2010;ACV-SEN;37890;3;Test .NET customizations for ACV
+16-3-2010;AKZO-UK;38136;0.5;Conf call
+16-3-2010;FEI-EHV;0;4.5;Yoda docfile changes
+17-3-2010;DMPSS;37401;3;Help Petra (non-billable)
+17-3-2010;TAL-UK;38219;3;progress error while converting acocunts
+17-3-2010;AVD-BEL;38230;2;testing automatisering
+18-3-2010;FEI-EHV;0;4;Yoda docfile changes
+18-3-2010;FEI-EHV;0;1;Rijden
+18-3-2010;ACV-SEN;37890;2;Testing
+19-3-2010;JEST-NL;38098;3.5;Probleem met logica
+19-3-2010;PAN-BEL;37929;4.5;Server upgrade check
+22-3-2010;PAN-BEL;37929;3.5;server upgrade check
+22-3-2010;GVS-BRE;38254;2.5;Changes to weekly reports
+22-3-2010;PARK-FR;38092;2;Changes to PO maintenance
+23-3-2010;PARK-FR;38092;3;Changes to PO maintenance
+23-3-2010;GVS-BRE;38267;2.5;Shared frame issue in soivrp.p
+23-3-2010;ACV-SEN;37890;1;zzpoupd.p error
+23-3-2010;GVS-BRE;38269;1;Upload journals via CIM
+23-3-2010;GVS-BRE;38271;0.5;Different reports from a query in results
+24-3-2010;PAN-BEL;ITR2617;1;leading zero's in excel
+24-3-2010;PARK-FR;38092;1;Changes to PO maintenance
+24-3-2010;GVS-BRE;38268;2;Toevoegen kolom met pt_loc op receiver
+24-3-2010;AVD-BEL;38277;1;Toevoegen tag HLP863c in aangepaste code
+24-3-2010;GVS-BRE;38270;3;Toeveogen tag HLP863c in aangepaste code
+25-3-2010;ACV-SEN;37890;1;Compilatieprobleem  txarrp.i
+25-3-2010;GVS-BRE;38275;1;Load file in MFG/PRO by CIM
+25-3-2010;JEST-NL;38280;1.5;Rework does not store reason code when qty = 0
+25-3-2010;SCOTTS;38290;2;Frame for country update missing in 1.4.1
+25-3-2010;JEST-NL;38280;0.5;Rework does not store reason code when qty = 0
+25-3-2010;JEST-NL;38291;0.5;EDI issue with due date and confirmation
+25-3-2010;JEST-NL;38256;1.5;unconfirmed fiscal receipts
+26-3-2010;PAN-BEL;ITR2617;1;Backflush werkt niet
+26-3-2010;PHPMS-HE;38284;1;Remove numerical check on IBAN accounts in CLIEOP03 driver for supplier banks
+26-3-2010;ACV-SEN;37890;1.5;Update terminal or Desktop mode for custo programs - through VPN
+26-3-2010;JEST-NL;38291;2.5;EDI issue with due date and confirmation
+29-3-2010;PARK-FR;38092;0.5;Question from Dominique Gaulliard
+29-3-2010;GVS-BRE;38297;0.5;Quotation extension to report 29.21.7
+29-3-2010;MIN-VE;38298;1;Change field ad_misc2_id into ad_misc1_id in mxffact.p
+29-3-2010;PAN-BEL;37929;2;Progress upgrade
+29-3-2010;PAN-BEL;37929;2;Progress upgrade
+29-3-2010;PAN-BEL;37929;1;Progress upgrade
+29-3-2010;ACV-SEN;37890;1;On-site update desktop or terminal
+30-3-2010;PAN-BEL;ITR2617;2.5;Backflush not working after item change
+30-3-2010;PHPMS-HE;GE38302;1.5;Check code of trial balance report
+30-3-2010;PHPMS-HE;38240;1;Batch field in icldup.p
+30-3-2010;PHPMS-HE;38076;1;Serial number query
+31-3-2010;TAL-UK;38304;2.5;Unbalanced GL entries
+31-3-2010;GVS-BRE;37872;7;AVL - development
+1-4-2010;JEST-NL;38291;2;Issue with EDI ORDERS import
+1-4-2010;GVS-BRE;37872;5;AVL - development
+1-4-2010;DMPSS;37917;1;UNIX PM
+2-4-2010;PHPMS-HE;38076;3;Check for double serial numbers
+2-4-2010;GVS-BRE;38185;0.5;VMI Import error
+2-4-2010;GVS-BRE;37872;2.5;AVL - development
+2-4-2010;JEST-NL;38291;1;Issue with EDI ORDERS import
+2-4-2010;GVS-BRE;38185;0;VMI Import
+6-4-2010;GVS-BRE;37872;3;AVL - Development
+6-4-2010;GVS-BRE;38297;3;Change output of report 29.21.7
+6-4-2010;JEST-NL;38291;1;EDI import issue
+6-4-2010;GVS-BRE;37871;1;Patch installation (37872-38268-38270-38297)
+7-4-2010;FFWE;38327;7;IBAN code for suppliers
+7-4-2010;JEST-NL;38291;1;voorbereiding bezoek
+8-4-2010;JEST-NL;38291;4;Bezoek in Zwolle - TRAVEL 6:45 AUTO
+8-4-2010;GENZ-EU;0;2;Sales and Delivery
+8-4-2010;AO-QH;0;6.75;Rijden
+9-4-2010;JEST-NL;38291;1;Aanpassing in EDI ECommerce
+9-4-2010;DMPSS;37917;0.5;PM
+9-4-2010;GVS-BRE;38338;4;Prepare Estimate
+9-4-2010;PARK-FR;38343;1.5;Analyse issue
+12-4-2010;PHPMS-HE;38076;0.5;re-delivery
+12-4-2010;FFWE;38339;0.5;check qad_wkfl record
+12-4-2010;GENZ-EU;0;3.5;Lezen  info S&D
+12-4-2010;DMPSS;37917;0.5;PM
+12-4-2010;PARK-FR;38343;3;sur-allocation
+13-4-2010;GVS-BRE;38351;4;Load Item data
+13-4-2010;SCOTTS;38355;1.5;add xxarmt.p to item master data maintenance
+13-4-2010;GVS-BRE;38185;0.5;VMI import 
+13-4-2010;MONTIS;38354;1;Montis custo doc => Gil
+13-4-2010;GENZ-EU;0;1;preparation
+14-4-2010;GENZ-EU;0;8;Study
+15-4-2010;GENZ-EU;TRAVEL TIME;1;2:50 - 2:00 = 50 minutes
+15-4-2010;GENZ-EU;INT067;10;TRAVEL
+16-4-2010;GENZ-EU;Meeting - INT067;6;TRAVEL
+19-4-2010;JEST-NL;38373;1;redeliver with different generalised codes entries
+19-4-2010;AKZO-UK;38366;1;AKZO-PM
+19-4-2010;DMPSS;37917;1;PM
+19-4-2010;GVS-BRE;38271;1.5;Results question
+19-4-2010;AO-QH;38271;2.5;Overdracht Panasonic server upgrade project => JN
+20-4-2010;GENZ-EU;0;8;Spec. INT040
+21-4-2010;GENZ-EU;0;4;Spec. INT040
+20-4-2010;FFWE;38327;1;CR38327: overdracht naar Gil
+21-4-2010;JEST-NL;38291;2;EDI aanpassing
+21-4-2010;GENZ-EU;0;2;Spec. INT007
+22-4-2010;GENZ-EU;0;8;Spec. INT040 TRAVEL
+23-4-2010;GENZ-EU;0;8;Spec. INT007 TRAVEL
+26-4-2010;GENZ-EU;0;8;Spec. INT007 TRAVEL
+27-4-2010;GENZ-EU;0;9.5;Spec. INT007 TRAVEL
+28-4-2010;GENZ-EU;0;9.5;Spec. INT007 TRAVEL
+3-5-2010;GENZ-EU;0;8;Spec. INT007 TRAVEL
+4-5-2010;PAN-BEL;ITR2638;5;Konversie 27.18 naar excel
+4-5-2010;PAN-BEL;ITR2639;0;Aanpassen vlag in shipper print
+4-5-2010;PAN-BEL;ITR2636;0;Aanpassing in 13 .12.2
+4-5-2010;PAN-BEL;ITRxxxx;0;Aanpassing lengte veld pt_promo
+4-5-2010;PAN-BEL;ITRxxxx;3;Opzoeken info betreffende interfaces
+5-5-2010;PAN-BEL;37929;1;Meeting ivm server upgrade
+5-5-2010;GVS-BRE;38445;2;Transactions
+5-5-2010;SCOTTS;38442;1;Discount issue
+6-5-2010;GENZ-EU;0;8;EBS Implementation - TRAVEL
+7-5-2010;GENZ-EU;0;8;EBS Implementation - TRAVEL
+10-5-2010;GENZ-EU;0;8;EBS Implementation - TRAVEL
+11-5-2010;AKZO-UK;38479;1;proposal
+12/05/2010;AKZO-UK;38479;1.0;proposal
+12/05/2010;FFWE;38327;2.5;Discussion with Gil
+12/05/2010;GENZ-EU;00000;4.5;
+13/05/2010;AO-QH;00000;8.0;Public Holiday
+14/05/2010;GENZ-EU;00000;8.0;EBS-Implementation - Bxl
+17/05/2010;GENZ-EU;00000;8.0;EBS-Implementation - TRAVEL
+18/05/2010;PAN-BEL;00000;2.0;Scripts check - server upgrade
+18/05/2010;PAN-BEL;ITR2566;5.0;Aanpassing totalen
+18/05/2010;PAN-BEL;00000;1.0;Scripts
+18/05/2010;PAN-BEL;00000;0.0;Aanpassing zzarcsr5.p
+19/05/2010;GENZ-EU;00000;0.5;EBS Implementation INT067 recon sheet
+19/05/2010;AKZO-UK;38479;1.5;PM
+20/05/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+21/05/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+21/05/2010;JEST-NL;38527;1.5;EDI changes
+21/05/2010;ACV-SEN;37890;1.0;Prepare list of custo's and standard functions to test
+24/05/2010;AO-QH;00000;8.0;Verlof
+25/05/2010;GENZ-EU;00000;6.5;EBS Implementation
+26/05/2010;GENZ-EU;00000;8.0;EBS Implementation
+27/05/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+28/05/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+25/05/2010;JEST-NL;38527;1.5;EDI issue
+07/06/2010;GENZ-EU;00000;8.0;EBS Implementation
+08/06/2010;GENZ-EU;00000;1.5;EBS Implementation
+08/06/2010;PAN-BEL;;6.5;New server
+09/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+10/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+11/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+14/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+15/06/2010;PAN-BEL;00000;3.0;New server ELM setup
+15/06/2010;GENZ-EU;00000;5.0;EBS Implementation
+16/06/2010;GENZ-EU;00000;8.0;EBS Implementation
+17/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+18/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+21/06/2010;GENZ-EU;00000;8.0;EBS Implementation
+22/06/2010;GENZ-EU;00000;8.0;EBS Implementation
+23/06/2010;GENZ-EU;00000;8.0;EBS Implementation
+24/06/2010;GENZ-EU;00000;10.0;EBS Implementation - TRAVEL
+25/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+28/06/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+29/06/2010;PAN-BEL;00000;8.0;On-site - TRAVEL
+30/06/2010;GENZ-EU;00000;8.0;EBS Implementation
+01/07/2010;GENZ-EU;00000;9.0;EBS Implementation - TRAVEL
+02/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+30/06/2010;GENZ-EU;00000;4.0;EBS Implementation
+30/06/2010;FFWE;38691;3.0;Nieuwe Accijns in EDI INVOIC bericht
+30/06/2010;PAN-BEL;00000;1.0;Ontbrekende code
+06/07/2010;FFWE;38691;4.5;EDI INVOIC nieuwe accijns
+05/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+06/07/2010;JEST-NL;38527;2.5;EDI Issue
+05/07/2010;GENZ-EU;00000;1.0;EBS Implementation - TRAVEL
+06/07/2010;GENZ-EU;00000;1.0;EBS Implementation 
+07/07/2010;GENZ-EU;00000;8.0;EBS Implementation 
+08/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+09/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+12/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+13/07/2010;PAN-BEL;ITR2640;5.0;Itakona report
+13/07/2010;PAN-BEL;00000;4.0;Check nieuwe server
+14/07/2010;GENZ-EU;00000;8.0;EBS Implementation
+15/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+16/07/2010;GENZ-EU;00000;8.0;EBS Implementation
+20/07/2010;PAN-BEL;00000;1.0;zzdelqad.p rapport aanpassen
+20/07/2010;PAN-BEL;00000;7.0;check nieuwe server
+21/07/2010;AO-QH;00000;8.0;verlof
+22/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+23/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+26/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+27/07/2010;GENZ-EU;00000;8.0;EBS Implementation
+28/07/2010;GENZ-EU;00000;8.0;EBS Implementation
+29/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+30/07/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+02/08/2010;AO-QH;00000;8.0;Holidays
+03/08/2010;GENZ-EU;00000;8.0;EBS Implementation
+04/08/2010;GENZ-EU;00000;8.0;EBS Implementation
+05/08/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+06/08/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+09/08/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+10/08/2010;GENZ-EU;00000;8.0;EBS Implementation
+11/08/2010;GENZ-EU;00000;8.0;EBS Implementation
+12/08/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+13/08/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+16/08/2010;AO-QH;00000;8.0;Holidays
+17/08/2010;AO-QH;00000;8.0;Holidays
+18/08/2010;AO-QH;00000;8.0;Holidays
+19/08/2010;AO-QH;00000;8.0;Holidays
+20/08/2010;AO-QH;00000;8.0;Holidays
+23/08/2010;AO-QH;00000;8.0;Holidays
+24/08/2010;AO-QH;00000;8.0;Holidays
+25/08/2010;AO-QH;00000;8.0;Holidays
+26/08/2010;AO-QH;00000;8.0;Holidays
+27/08/2010;AO-QH;00000;8.0;Holidays
+30/08/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+31/08/2010;GENZ-EU;00000;8.0;EBS Implementation
+01/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+02/09/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+03/09/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+06/09/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+07/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+08/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+09/09/2010;PAN-BEL;00000;8.0;Panasonic
+10/09/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+13/09/2010;GENZ-EU;;8.0;EBS Implementation - Travel
+14/09/2010;GENZ-EU;;8.0;EBS Implementation - Travel
+15/09/2010;GENZ-EU;;8.0;EBS Implementation - Travel
+16/09/2010;GENZ-EU;;8.0;EBS Implementation - Travel
+17/09/2010;PAN-BEL;00000;8.0;On - Site
+20/09/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+21/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+22/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+23/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+24/09/2010;PAN-BEL;00000;8.0;On-Site
+27/09/2010;PAN-BEL;00000;8.0;On-Site
+28/09/2010;PAN-BEL;00000;8.0;On-Site
+29/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+30/09/2010;GENZ-EU;00000;8.0;EBS Implementation
+01/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+04/10/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+05/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+06/10/2010;PAN-BEL;00000;8.0;PR
+07/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+08/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+11/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+12/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+13/10/2010;PAN-BEL;00000;8.0;PR
+14/10/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+15/10/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+18/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+19/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+20/10/2010;PAN-BEL;00000;8.0;PR
+20/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+20/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+25/10/2010;PAN-BEL;7.6.1;2.0;Laadlijst onderhoud - negatieve aantallen
+25/10/2010;PAN-BEL;PR39152;0.5;Installatie
+25/10/2010;PAN-BEL;zzpor881.p;0.5;formatting issue
+25/10/2010;PAN-BEL;ITR2656;1.0;Shipto toevoegen op rapport 7.15.12.5
+25/10/2010;PAN-BEL;ITR2658;1.0;Shipto toevoegen op rapport 7.15.12.5
+25/10/2010;PAN-BEL;Email;3.0;Check out elm
+26/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+27/10/2010;GENZ-EU;00000;8.0;EBS Implementation
+28/10/2010;GENZ-EU;00000;16.0;EBS Implementation - TRAVEL
+29/10/2010;GENZ-EU;00000;7.0;EBS Implementation - TRAVEL
+01/11/2010;AO-QH;00000;8.0;Verlof
+02/11/2010;GENZ-EU;00000;8.0;EBS Implementation
+03/11/2010;FFWE;00000;5.5;Test CRs
+03/11/2010;AO-QH;00000;1.5;Hospitaal RX
+04/11/2010;GENZ-EU;00000;8.0;Hospitaal RX
+05/11/2010;GENZ-EU;00000;8.0;Hospitaal RX
+08/11/2010;GENZ-EU;00000;8.0;EBS Implementation
+09/11/2010;GENZ-EU;00000;8.0;EBS Implementation
+10/11/2010;PAN-BEL;39248;6.0;Tax report incomplete
+10/11/2010;GENZ-EU;00000;2.0;EBS Implementation
+11/11/2010;AO-QH;00000;8.0;Verlof
+12/11/2010;AO-QH;00000;8.0;Verlof
+15/11/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+16/11/2010;JCI-BUR;39268;6.0;Honda EDI - Preparation
+16/11/2010;FFWE;38492;1.5;Test XML message
+17/11/2010;GENZ-EU;00000;8.0;EBS Implementation
+18/11/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+19/11/2010;GENZ-EU;00000;8.0;EBS Implementation - TRAVEL
+22/11/2010;GENZ-EU;00000;8.0;EBS Implementation - Travel
+23/11/2010;PAN-BEL;00000;8.0;On-Site work
+24/11/2010;AO-QH;00000;2.0;New PC installation - Idle
+24/11/2010;PAN-BEL;38104;4.0;Test - Panasonic CR
+24/11/2010;FFWE;38491;2.0;Help customer with installation
+25/11/2010;FFWE;38491;1.5;Help customer with installation
+25/11/2010;PAN-BEL;00000;1.0;Install customization for Forecast upload
+25/11/2010;FFWE;38491;1.5;Help with installation
+25/11/2010;JEST-NL;00000;2.5;Upgrade SP2 to SP11
+25/11/2010;AO-QH;00000;1.5;Nieuwe PC, installatie
+29/11/2010;JEST-NL;39309;8.0;Upgrade project - LF part
+30/11/2010;JEST-NL;39309;3.0;Upgrade project - LF part
+30/11/2010;FFWE;39318;5.0;PR solving
+01/12/2010;JCI-BUR;39268;8.0;Honda EDI - TRAVEL
+02/12/2010;JCI-BUR;39268;8.0;Honda EDI - TRAVEL
+07/12/2010;JCI-BUR;CR39268;8.0;Honda Barcode project - proposal
+06/12/2010;PAN-BEL;ITR2675;2.0;Honda EDI
+06/12/2010;PAN-BEL;ITR2621;1.0;Laden forecastgegevens: wijziging layout inputbestand
+06/12/2010;PAN-BEL;ITR2576;3.0;Blokkeren niet backflushen door BWA en BEW
+06/12/2010;PAN-BEL;ITR2640;0.0;Aanpassing ITAKONA report
+06/12/2010;PAN-BEL;ITR2673;2.0;BTW-lijsten in excel
+07/12/2010;JCI-BUR;CR39268;8.0;Honda Barcode project - proposal
+08/12/2010;JCI-BUR;CR39268;8.0;Honda Barcode project - proposal
+09/12/2010;JCI-BUR;CR39268;8.0;Honda Barcode project - proposal
+10/12/2010;FFWE;39318;0.5;PR Solving
+10/12/2010;PAN-BEL;ITR2673;7.0;ITR2683 - Proposal
+13/12/2010;PAN-BEL;ITR2681;2.0;BTW rapport
+13/12/2010;PAN-BEL;ITR2677;2.0;Aanpassing in MWare interface (Vrachtnummer meegeven)
+13/12/2010;PAN-BEL;ITR2682;6.0;Excel output van prioriteiten lijst
+14/12/2010;AVD-BEL;PR39362;0.5;Fout in laden forecasts (30 min)
+14/12/2010;FFWE;39318;4.5;PR solving
+14/12/2010;JCI-BUR;CR39268;3.0;Honda Barcode project
